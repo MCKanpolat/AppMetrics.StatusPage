@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FX.StatusPage.UI", "src\AppMetrics.StatusPage\AppMetrics.StatusPage.csproj", "{4DAB0232-2319-4001-8FCD-D22EBBBA743E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAB0232-2319-4001-8FCD-D22EBBBA743E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAB0232-2319-4001-8FCD-D22EBBBA743E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAB0232-2319-4001-8FCD-D22EBBBA743E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAB0232-2319-4001-8FCD-D22EBBBA743E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19274A66-4E06-4A37-8BFC-8CA7E9EB61B0}
+	EndGlobalSection
+EndGlobal
